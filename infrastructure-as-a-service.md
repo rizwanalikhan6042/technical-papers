@@ -66,6 +66,14 @@ It allows users to rent servers, storage, and networking instead of buying physi
 
 IaaS makes it easier to use computing resources without purchasing physical hardware. Users can choose the resources they need and manage their applications according to their requirements.
 
+## References
+
+- [NIST – The NIST Definition of Cloud Computing](https://csrc.nist.gov/pubs/sp/800/145/final)
+- [Amazon Web Services (AWS) – Infrastructure as a Service (IaaS)](https://aws.amazon.com/what-is/iaas/)
+- [Google Cloud – What Is IaaS?](https://cloud.google.com/learn/what-is-iaas)
+- [Microsoft Azure – What Is IaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/)
+
+
 
 
 
