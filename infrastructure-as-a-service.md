@@ -19,10 +19,15 @@ It allows users to rent servers, storage, and networking instead of buying physi
 ## Features of IaaS  
 
 - Virtual machines
+  
 - Storage
+  
 - networking
+  
 - Flexible resource management
+  
 - Scalability
+  
 - Pay-as-you-use pricing
 
 ## Advantages of IaaS
@@ -38,15 +43,22 @@ It allows users to rent servers, storage, and networking instead of buying physi
 
 ## Disadvantages of IaaS
 - Requires very much technical knowledge.
+  
 - Users need to manage their operating systems.
+  
 - Internet connectivity is required.
+  
 - Security settings need proper management.
+  
 - Costs can increase with higher usage.
 
 ## Examples of IaaS
 - Amazon Web Services (AWS)
+  
 - Microsoft Azure
+  
 - Google Cloud Platform
+  
 - DigitalOcean
 
 ## Uses of IaaS
@@ -72,27 +84,5 @@ IaaS makes it easier to use computing resources without purchasing physical hard
 - [Amazon Web Services (AWS) – Infrastructure as a Service (IaaS)](https://aws.amazon.com/what-is/iaas/)
 - [Google Cloud – What Is IaaS?](https://cloud.google.com/learn/what-is-iaas)
 - [Microsoft Azure – What Is IaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
