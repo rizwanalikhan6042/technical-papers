@@ -68,7 +68,6 @@ IaaS makes it easier to use computing resources without purchasing physical hard
 
 ## References
 
-- [NIST – The NIST Definition of Cloud Computing](https://csrc.nist.gov/pubs/sp/800/145/final)
 - [Amazon Web Services (AWS) – Infrastructure as a Service (IaaS)](https://aws.amazon.com/what-is/iaas/)
 - [Google Cloud – What Is IaaS?](https://cloud.google.com/learn/what-is-iaas)
 - [Microsoft Azure – What Is IaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/)
