@@ -62,7 +62,7 @@ It allows users to rent servers, storage, and networking instead of buying physi
 
 - Managing business applications
 
-Conclusion
+## Conclusion
 
 IaaS makes it easier to use computing resources without purchasing physical hardware. Users can choose the resources they need and manage their applications according to their requirements.
 
