@@ -3,10 +3,11 @@
 
 Infrastructure as a Service (IaaS) is a cloud computing model that provides computing resources over the internet.
 
-It allows users to rent servers, storage, and networking instead of buying physical hardware.
+It allows users to rent servers, storage, and networking instead of buying physical hardware So they has not to buy costly hardware and all.
 
 ## How IaaS service works
 - The cloud provider manages physical servers and data centers.
+  
 - Users create virtual machines according to their needs.
 
 - Users install operating systems and required software.
@@ -18,7 +19,7 @@ It allows users to rent servers, storage, and networking instead of buying physi
 ## Features of IaaS  
 
 - Virtual machines
-- Shortage
+- Storage
 - networking
 - Flexible resource management
 - Scalability
@@ -36,7 +37,7 @@ It allows users to rent servers, storage, and networking instead of buying physi
 - Useful for running applications and storing data.
 
 ## Disadvantages of IaaS
-- Requires technical knowledge.
+- Requires very much technical knowledge.
 - Users need to manage their operating systems.
 - Internet connectivity is required.
 - Security settings need proper management.
