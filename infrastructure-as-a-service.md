@@ -1,7 +1,7 @@
 # Infrastructure as a Service (IaaS)
 ## 1. Introduction
 
-Infrastructure as a Service (IaaS) is a cloud computing model that provides computing resources over the internet.
+Infrastructure as a Service (IaaS) is a cloud computing model that gives us computing resources over the internet.
 
 It allows users to rent servers, storage, and networking instead of buying physical hardware So they has not to buy costly hardware and all.
 
@@ -44,7 +44,7 @@ It allows users to rent servers, storage, and networking instead of buying physi
 ## Disadvantages of IaaS
 - Requires very much technical knowledge.
   
-- Users need to manage their operating systems.
+- We need to manage our operating systems.
   
 - Internet connectivity is required.
   
